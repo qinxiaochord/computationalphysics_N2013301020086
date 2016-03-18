@@ -23,7 +23,7 @@
 
 再然后按照公式
 
-$\frac{dv}{dt}=g$
+![equition](https://raw.githubusercontent.com/qinxiaochord/computationalphysics_N2013301020086/master/homework4/equition.png)
 
 将每次计算的结果添加到之前创建的list中去。
 
