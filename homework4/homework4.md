@@ -38,8 +38,16 @@ $\frac{dv}{dt}=g$
 
 ![图1.5 第一题数据](https://raw.githubusercontent.com/qinxiaochord/computationalphysics_N2013301020086/master/homework4/1%E6%95%B0%E6%8D%AE.png)
 
+第一题数据
+
 ![图1.6 第一题图像](https://raw.githubusercontent.com/qinxiaochord/computationalphysics_N2013301020086/master/homework4/v_vs_t.png)
+
+第一题图像
 
 ![图1.7 第四题数据](https://raw.githubusercontent.com/qinxiaochord/computationalphysics_N2013301020086/master/homework4/4%E6%95%B0%E6%8D%AE.png)
 
+第四题数据
+
 ![图1.8 第四题图像](https://raw.githubusercontent.com/qinxiaochord/computationalphysics_N2013301020086/master/homework4/NA_NB_vs_t.png)
+
+第四题图像
