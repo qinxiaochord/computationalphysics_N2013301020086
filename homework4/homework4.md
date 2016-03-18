@@ -1,11 +1,11 @@
 #Homework4
-##*摘要
+##* 摘要
 在这次作业中，我做了两个题目。
 
 第一个是第一题，解决了一维重力场中物体速度随时间的变化，需要用户输入初始速度，持续时间，和每次计算的时间间隔。
 
 第二个是第四题，解决了两种原子核耦合衰变的各种原子核数目随时间的变化，需要用户输入两种原子核的数目，两种原子核的衰变常数，衰变持续时间，以及每次计算的时间间隔。
-##*正文
+##* 正文
 
 [这是第一题源代码](https://github.com/qinxiaochord/computationalphysics_N2013301020086/blob/master/homework4/1.py)
 
@@ -32,7 +32,7 @@ $\frac{dv}{dt}=g$
 最后打印出两个list和画图。
 
 ![图1.4](https://raw.githubusercontent.com/qinxiaochord/computationalphysics_N2013301020086/master/homework4/1_4.png)
-##*结果
+##* 结果
 
 以下是结果的图片：
 
