@@ -18,5 +18,9 @@ for i in range(int(t_end/dt)):
     t.append(i*dt)
 print t
 print v
-plot(t, v)
+plot(t, v, 'bo', color='red', linewidth=1.0, linestyle='--', label='v=v0+gt')
+title('v vs t')
+xlabel('time axis')
+ylabel('velocity axis')
+legend(loc='upper left')
 show()

@@ -24,5 +24,10 @@ for i in range(int(t_end/dt)):
 print t
 print NA
 print NB
-#plot(t,NA,NB)
-#show()
+plot(t,NA,'ob',linestyle='-',linewidth=1.0,color='b',label='NA')
+plot(t,NB,'or',linestyle='--',linewidth=1.0,color='r',label='NB')
+title('plot NA & NB vs t')
+xlabel=('t axis')
+ylabel=('number axis')
+legend(loc='upper right')
+show()
