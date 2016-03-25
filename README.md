@@ -6,4 +6,4 @@
 
 [homework4](https://github.com/qinxiaochord/computationalphysics_N2013301020086/blob/master/homework4/homework4.md)
 
-[homework4](https://www.zybuluo.com/samuelstark/note/324616)
+[homework5](https://www.zybuluo.com/samuelstark/note/324616)
