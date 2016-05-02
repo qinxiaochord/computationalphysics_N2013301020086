@@ -8,7 +8,7 @@ import math as math
 import pylab as pl
 
 q = 0.5
-omega = 2. / 3. + 0.001
+omega = 2. / 3.
 F = 1.2
 end_t = 10000.
 T = 2 * math.pi / omega
@@ -60,11 +60,12 @@ class pendulum:
                 attract_t.append(s.t)
             counter = counter + 1
         pl.figure(figsize=(30,18),dpi=96)
-        #pl.plot(all_theta,all_w,linestyle='-',linewidth=1.0,color='b',label='F=1.2')
+        #pl.plot(all_theta,all_w,linestyle='-',linewidth=1.0,color='b',label='$F_D=0.5$'+'\n'+'$\Omega=2/3$')
         #pl.plot(all_t,all_theta,linestyle='-',linewidth=1.0,color='r',label='alpha=3')
         pl.xlabel('$\Theta$')
         pl.ylabel('$\omega$')
         pl.title('attraction')
+        pl.title('chaos')
         pl.scatter(attract_theta, attract_w, label = '$\Omega=2/3+0.001$'+'\n'+'$F_D=1.2$')
         pl.legend(loc='upper right', fontsize= 16)
 
