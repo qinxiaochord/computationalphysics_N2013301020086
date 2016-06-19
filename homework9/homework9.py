@@ -9,7 +9,7 @@ import pylab as pl
 
 q = 0.5
 omega = 2. / 3.
-F = 1.2
+F = 1.3
 end_t = 10000.
 T = 2 * math.pi / omega
 num = int(T / (0.01 * math.pi))
@@ -66,7 +66,7 @@ class pendulum:
         pl.ylabel('$\omega$')
         pl.title('attraction')
         pl.title('chaos')
-        pl.scatter(attract_theta, attract_w, label = '$\Omega=2/3+0.001$'+'\n'+'$F_D=1.2$')
+        pl.scatter(attract_theta, attract_w, label = '$\Omega=2/3$'+'\n'+'$F_D=1.3$')
         pl.legend(loc='upper right', fontsize= 16)
 
 x = pendulum(state(0.2, 0., 0.))
