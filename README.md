@@ -25,3 +25,5 @@
 [homework13](https://www.zybuluo.com/samuelstark/note/387389)
 
 [homework14](https://www.zybuluo.com/samuelstark/note/406612)
+
+[final task](https://github.com/qinxiaochord/computationalphysics_N2013301020086/blob/master/final/final.pdf)
